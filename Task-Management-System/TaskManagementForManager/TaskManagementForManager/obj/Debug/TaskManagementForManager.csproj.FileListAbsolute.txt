@@ -1,0 +1,58 @@
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\bin\Debug\TaskManagementForManager.exe.config
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\bin\Debug\TaskManagementForManager.exe
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\bin\Debug\TaskManagementForManager.pdb
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Form1.resources
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Properties.Resources.resources
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.exe
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.pdb
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Staff_Task.resources
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Login.resources
+C:\Users\HP\source\repos\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Register_Staff.resources
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\TaskManagementForManager.exe.config
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\TaskManagementForManager.exe
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\TaskManagementForManager.pdb
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\MySql.Data.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Memory.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Buffers.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\MySql.Data.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Form1.resources
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Login.resources
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Properties.Resources.resources
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Register_Staff.resources
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.Staff_Task.resources
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.csproj.CopyComplete
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.exe
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\obj\Debug\TaskManagementForManager.pdb
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\Google.Protobuf.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\ZstdSharp.dll
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\Google.Protobuf.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Buffers.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Memory.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Desktop\TaskManagementForManager (3)\TaskManagementForManager\TaskManagementForManager\bin\Debug\System.Threading.Tasks.Extensions.xml
